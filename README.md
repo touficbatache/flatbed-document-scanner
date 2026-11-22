@@ -29,3 +29,7 @@ A browser document scanner: take photos, upload images or import a PDF, drag fou
 - `vendor/pdf-lib.min.js` - pdf-lib 1.17.1 (MIT): builds the PDF and reads photo-only PDFs
 - `vendor/pdf.min.js`, `vendor/pdf.worker.min.js` - pdf.js 3.11.174 (Apache-2.0): renders other PDF pages
 - Each falls back to the jsDelivr CDN if missing.
+
+## License
+
+MIT, see [LICENSE](LICENSE). The bundled libraries keep their own licenses (see `vendor/`).
